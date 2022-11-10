@@ -1,0 +1,12 @@
+input {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color: white;
+  }
+  
+  .no-outline:focus {
+    outline: none;
+    background-color: transparent;
+  }
